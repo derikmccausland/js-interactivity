@@ -13,7 +13,7 @@ function addMovie (event) {
     movie.appendChild(movieTitle)
     
     const deleteBtn = document.createElement('button')
-    deleteBtn.textContent = ('x')
+    deleteBtn.textContent = 'x'
     deleteBtn.addEventListener('click', deleteMovie)
     movie.appendChild(deleteBtn)
     
