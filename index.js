@@ -55,3 +55,5 @@ function revealMessage () {
 //STEP 3:
 formData.addEventListener('submit', addMovie)
 
+// Hello
+
